@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Astroloico
 - 👀 I’m interested in coding, math and science
-- 🌱 I’m currently learning 3d projection
-- 💞️ I’m looking to collaborate on a 2d top down fighting game (I need a pixelartist, I am crazy bad a art)
+- 🌱 I’m currently learning Rust.
+- 💞️ I'm doing prime numbers.
 - 📫 How to reach me : my Discord is Astroloico#2944
 
 <!---
