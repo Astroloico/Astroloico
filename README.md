@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Astroloico
 - 👀 I’m interested in coding, math and science
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently recovering from learning Rust.
 - 💞️ I'm doing prime numbers.
 - 📫 How to reach me : my Discord is Astroloico#2944
 
